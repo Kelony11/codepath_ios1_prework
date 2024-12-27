@@ -1,4 +1,4 @@
-CURRENT FEATURES
+# CURRENT FEATURES
 
 - Two buttons (Background: randomly changes the UI background color) and (Text: randomly changes the texts colors uniformly)
 - Brightness: Button Opaqueness reduces by half for a duration of half a second when pressed, and restores back to it's original brightness.
@@ -8,6 +8,11 @@ Some Ideas To Improve are:
 - Add some an Image view and some cool features
 - Regulate the progress bar to match with the sounds when the text button is pressed. 
 - Figure a way to change text color: Done 
+
+
+# Brief App Walkthrough
+
+https://github.com/user-attachments/assets/7429003d-0268-4528-90e5-1d44beedee98
 
 
 
