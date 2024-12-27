@@ -12,7 +12,9 @@ Some Ideas To Improve are:
 
 # Brief App Walkthrough
 
-https://github.com/user-attachments/assets/7429003d-0268-4528-90e5-1d44beedee98
+
+https://github.com/user-attachments/assets/ed27f2c6-5a66-42fa-aa9f-e300e36b9071
+
 
 
 
