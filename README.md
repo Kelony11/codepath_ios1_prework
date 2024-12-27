@@ -19,18 +19,27 @@ APP BRAINSTORMING
 - Whatsapp
 - YouTube 
 
---> Features that makes them my favorite app
+Here’s a cleaned-up version of your text:
 
-- Whatsapp: The calling feature that connects you to have conversations with people in different countries all over the world, Voice messaging and GIF sharing capabilities.
+---
 
-- Instagram: Better quality of Image/Video sharing feature, that makes it standout compared to Facebook, GIF sharing, and poll voting in the comment section.
+### Features That Make Them My Favorite Apps  
 
-- YouTube: The video recommendation system based on a user's preference, Monetization of content creators videos through ads, Watching the vidoes off the app which was recently added 2 years ago.
+- **WhatsApp:**  
+  The **calling feature** that allows you to connect with people worldwide, **voice messaging**, and **GIF-sharing capabilities** make it stand out.  
 
+- **Instagram:**  
+  **High-quality image and video sharing**, which sets it apart from Facebook, along with **GIF-sharing** and **poll voting** in the comment section.  
 
-# APP IDEA
+- **YouTube:**  
+  The **video recommendation system** tailored to a user's preferences, **monetization for content creators** through ads, and the ability to **watch videos offline**, introduced two years ago.  
 
-==>  This app is Backstage (the ap for upcoming models and actors), some fefatures to implement would be added a video/audio sharing fetaure where users can post their work anytime and go viral. (The reason why upcoming actors/models run to Tiktok, instead of Backstage. Because, backstage is too expensive for beginers). Thoughts? 🤔
+---
 
+### App Idea: *Backstage* for Upcoming Models and Actors  
 
+Backstage could add a **video/audio sharing feature** where users can post their work anytime and potentially go viral. This would attract aspiring actors and models who currently gravitate towards TikTok due to its affordability and virality, as **Backstage is often too expensive for beginners**.  
 
+---
+
+**Thoughts?**
